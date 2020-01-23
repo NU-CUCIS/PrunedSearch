@@ -1,0 +1,4 @@
+% python source/train_model.py --input_data data/data_demo.mat --output_data model_output/demo_modelout.mat
+You are using older version of sklearn, using chi2 for feature selection.
+Feature selection   cost 0.0038 seconds
+Fitting the decision tree and compute feature range   cost 0.1403 seconds

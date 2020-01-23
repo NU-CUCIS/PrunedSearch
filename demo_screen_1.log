@@ -1,0 +1,20 @@
+% matlab -r "run source/datagen/exp_rand_demo"
+Warning: No display specified.  You will not be able to display graphics on the screen.
+
+                             < M A T L A B (R) >
+                   Copyright 1984-2012 The MathWorks, Inc.
+                    R2012a (7.14.0.739) 64-bit (glnxa64)
+                              February 9, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Program Step 1: Random data generation.
+Property function used:
+    @SeparateOptE
+
+Specified size of data to be generated:
+        1000
+
+Data of size 600 (rows) x 77 (column) are generated, and saved at ../../data/data_demo.mat
